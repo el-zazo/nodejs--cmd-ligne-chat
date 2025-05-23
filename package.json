@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@elzazo/console-messages": "^1.0.1",
+    "readline": "^1.3.0"
+  },
+  "name": "@elzazo/cmd-ligne-chat",
+  "version": "1.0.0",
+  "description": "Create chat in CMD ligne between app and user",
+  "main": "index.js",
+  "author": "elzazo",
+  "license": "ISC"
+}
